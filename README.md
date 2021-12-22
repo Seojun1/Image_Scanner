@@ -10,7 +10,7 @@ OpenCV
 
 ```bash
 pip install numpy
-pip install OpenCV
+pip install opencv-python
 ```
 
 ## How to use
