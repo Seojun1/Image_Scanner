@@ -3,7 +3,7 @@
 ※ We need a `library` ※
 
 ## Library to install.
-numpy
+numpy<br>
 OpenCV
 
 ## Install it.
